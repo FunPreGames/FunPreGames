@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #346d50;
   color: #fff;
   padding: 10px;
   text-align: center;
@@ -19,10 +19,11 @@ header img {
 }
 
 nav {
-  background-color: #444;
+  background-color: #346d50;
   text-align: center;
   padding: 5px;
   margin: 0.1% 0;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
 
 nav ul {
@@ -92,7 +93,7 @@ main button,
   margin-top: 10px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff;
+  background-color: #346d50;
   color: #fff;
   border: none;
   border-radius: 9px;
@@ -102,6 +103,7 @@ main button,
   display: inline-block;
   box-sizing: border-box;
   text-align: center;
+  margin-top: 50px;
 }
 
 /* Media query para ajuste em telas menores */
